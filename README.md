@@ -22,8 +22,12 @@ Trainer Kit, DSO(10MHz) , Patch Cords and Power Supply (0-30V)
 
 
 ## TABLE
+![image](https://github.com/user-attachments/assets/d726f790-a3a1-451f-9a27-30edb731435b)
+
 
 ## OUTPUT GRAPHS
+![image](https://github.com/user-attachments/assets/339522b0-3a25-4264-8f5f-52bb833981e1)
+
 
 ## RESULT 
 Thus, the delta modulation is studied and the delta modulated waveform is obtained
